@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+    background-color:#141414;
+    
+    color: #fff;
+
+    padding: 1rem;
+
+
+}
+ h1{
+     font-family: 'Pinyon Script', cursive;
+     font-size: 3rem;
+ }
+
+ p{
+     letter-spacing: 1px;
+     font-family: 'Montserrat', sans-serif;
+     font-weight: lighter;
+     text-align: justify;
+ }
